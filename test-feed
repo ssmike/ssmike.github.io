@@ -28,6 +28,7 @@
 
             </yandex:full-text>
             <yandex:analytics id="42292289" type="Yandex"></yandex:analytics>
+            <yandex:adNetwork id="42292289" type="Yandex"></yandex:adNetwork>
     </item>
   </channel>
 </rss>
