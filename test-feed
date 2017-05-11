@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:yandex="http://news.yandex.ru">
+  <channel>
+    <title>ПолитЭксперт</title>
+    <link>https://politexpert.net/</link>
+    <description>Самые свежие новости и события.</description>
+    <yandex:logo>https://politexpert.net/assets/images/PNG/logo100.png</yandex:logo>
+    <yandex:logo type="square">https://politexpert.net/assets/images/PNG/ya_logo_square.png</yandex:logo>
+    <item amp=true>
+      <title>Под Тюменью мужчина зверски убил пенсионерку топором</title>
+      <link>https://politexpert.net/38716-pod-tyumenyu-muzhchina-zverski-ubil-pensionerku-toporom</link>
+      <amplink>https://politexpert.net/amp/38716-pod-tyumenyu-muzhchina-zverski-ubil-pensionerku-toporom</amplink>
+      <description>Три дня назад под Тюменью было совершено страшное преступление. Правоохранители обнаружили в селе Достовалово труп местной жительницы. Ее тело было покрыто множеством повреждений.</description>
+      <yandex:genre>message</yandex:genre>
+      <category>Происшествия</category>
+      <enclosure length="876228" type="image/png" url="http://politexpert.net/uploads/2017/05/11/orig-snimokprprr-1494491404.PNG"/>
+      <pubDate>Thu, 11 May 2017 11:32:12 +0300</pubDate>
+      <yandex:full-text>
+Три дня назад под Тюменью было совершено страшное преступление. Правоохранители обнаружили в селе Достовалово труп местной жительницы. Ее тело было покрыто множеством повреждений.
+
+По данному факту уже возбуждено уголовное дело, начались поиски убийцы. Очень скоро был задержан 27-летний молодой человек, который проживал недалеко от убитой.
+
+
+
+Фото: instagram.com/@vad9_aka_grustniy
+
+Следователи сообщают, что мужчина рассчитывал похитить у пенсионерки деньги. Он обманным путем проник в дом женщины, после чего набросился на нее с топором. Убедившись, что пенсионерка мертва, злоумышленник обыскал дом, нашел деньги и ценные вещи, после чего покинул место преступления.
+
+            </yandex:full-text>
+            <yandex:analytics id="42292289" type="Yandex"></yandex:analytics>
+    </item>
+  </channel>
+</rss>
