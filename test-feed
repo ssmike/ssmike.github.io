@@ -6,6 +6,19 @@
     <description>Самые свежие новости и события.</description>
     <yandex:logo>https://politexpert.net/assets/images/PNG/logo100.png</yandex:logo>
     <yandex:logo type="square">https://politexpert.net/assets/images/PNG/ya_logo_square.png</yandex:logo>
+    <yandex:adNetwork type="AdFox">
+window.Ya.adfoxCode.create({
+    ownerId: 257673,
+    containerId: 'adfox_149674745509895167',
+    params: {
+        pp: 'g',
+        ps: 'cmic',
+        p1: 'zzzz',
+        p2: 'fqem',
+        'partner_stat_id':'34567'
+    },
+});";
+    </yandex:adNetwork>
     <item amp="true">
       <title>Под Тюменью мужчина убил пенсионерку топором</title>
       <link>https://politexpert.net/38716-pod-tyumenyu-muzhchina-zverski-ubil-pensionerku-toporom</link>
@@ -23,8 +36,7 @@
 Следователи сообщают, что мужчина рассчитывал похитить у пенсионерки деньги. Он обманным путем проник в дом женщины, после чего набросился на нее с топором. Убедившись, что пенсионерка мертва, злоумышленник обыскал дом, нашел деньги и ценные вещи, после чего покинул место преступления.
 
             </yandex:full-text>
-            <yandex:analytics id="42292289" type="Yandex"></yandex:analytics>
-            <yandex:adNetwork id="42292289" type="Yandex"></yandex:adNetwork>
+
     </item>
   </channel>
 </rss>

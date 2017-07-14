@@ -1,0 +1,189 @@
+<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" version="2.0">
+<channel>
+<title>Российская Газета</title>
+<turbo:logo>https://cdnimg.rg.ru/res/images/logo/logo_rg_yn.png</turbo:logo>
+<link>https://rg.ru/</link>
+<description>Ежедневная московская общественно-политическая газета</description>
+<language>ru</language>
+<yandex:analytics id="22322746" type="Yandex"></yandex:analytics>
+<yandex:analytics id="22322746" type="Yandex"></yandex:analytics>
+<yandex:analytics type="LiveInternet" params="parametrs"></yandex:analytics>
+<yandex:analytics id="UA-7039329-2" type="Google"></yandex:analytics>
+<yandex:analytics id="11659" type="MailRu"></yandex:analytics>
+<yandex:analytics id="250928" type="Rambler"></yandex:analytics>
+<yandex:adNetwork type="Yandex" id="R-A-196263-1"></yandex:adNetwork>
+<yandex:adNetwork type="AdFox">
+window.Ya.adfoxCode.create({
+    ownerId: 257673,
+    containerId: 'adfox_149674745509895167',
+    params: {
+        pp: 'g',
+        ps: 'cmic',
+        p1: 'zzzz',
+        p2: 'fqem',
+        'partner_stat_id':'34567'
+    },
+});";
+</yandex:adNetwork>
+<item turbo="true">
+<yandex:genre>article</yandex:genre>
+<category>Спорт</category>
+<title>Наши будут в форме</title>
+<description>На Олимпийских играх в сборная России будет выглядеть по-новому. Экипировщик представил первый результат - форму для юношеский сборной. В ней россияне отправятся в </description>
+<link>https://rg.ru/2017/07/13/ekipirovshchik-olimpijskogo-komiteta-rossii-predstavil-novuiu-formu.html</link>
+<pubDate>13 Jul 2017 23:30:00 +0300</pubDate>
+<author>Иван Петров</author>
+<turbo:content>
+<header>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+<h1>Заголовок</h1>
+<h2>Подзаголовок</h2>
+</header>
+<h1>Заголовок</h1>
+<a href="https://www.gazeta.ru/auto/news/2017/03/27/n_9846095.shtml">Ранее</a>
+<p>Это первый шаг нашего партнера. Важно, насколько удачным он получится, - заявил на специальной пресс-конференции глава ОКР Александр Жуков. - Главное, это чтобы форма понравилась спортсменам. У нас в сборной ребята 15-16 лет. То есть одежда должна быть удобной, но при этом красивой и модной. Новая экипировка выглядит современной, при этом ее не перепутаешь с формой из другой страны.</p>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+<figcaption>Картинка</figcaption>
+</figure>
+<figure class="carousel">
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+</figure>
+<figure>
+<video>
+<source src="http://videocdn.itar-tass.com/tass/m2/uploads/v/27788.video_hd.mp4" type="video/mp4" />
+</video>
+<img src="http://cdn.tass.ru/tass/m2/uploads/v/27788.video_stop_frame.jpg" />
+</figure>
+<figure>
+<video>
+<source src="http://videocdn.itar-tass.com/tass/m2/uploads/v/27790.video_hd.mp4" type="video/mp4" />
+</video>
+<img src="http://cdn.tass.ru/tass/m2/uploads/v/27788.video_stop_frame.jpg"/>
+<figcaption>Подпись</figcaption>
+</figure>
+<ul>
+<li>Математика</li>
+<li>Физика</li>
+<li>Химия</li>
+</ul>
+<ol>
+<li>Математика</li>
+<li>Физика</li>
+<li>Химия</li>
+</ol>
+</turbo:content>
+<enclosure url="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg" type="image/jpeg"/>
+<enclosure url="http://cdn.tass.ru/tass/m2/uploads/v/27788.video_stop_frame.jpg" type="image/jpeg"/>
+<enclosure url="http://videocdn.itar-tass.com/tass/m2/uploads/v/27788.video_hd.mp4" type="video/mp4"/>
+<enclosure url="http://cdn.tass.ru/tass/m2/uploads/v/27790.video_stop_frame.jpg" type="image/jpeg"/>
+<enclosure url="http://videocdn.itar-tass.com/tass/m2/uploads/v/27790.video_hd.mp4" type="video/mp4"/>
+<media:group>
+<media:content url="http://videocdn.itar-tass.com/tass/m2/uploads/v/27790.video_hd.mp4"></media:content>
+<media:thumbnail url="http://cdn.tass.ru/tass/m2/uploads/v/27790.video_stop_frame.jpg"></media:thumbnail>
+<media:status state="active"></media:status>
+</media:group>
+<yandex:related>
+<link url="https://rg.ru/2017/06/24/glava-rk-predlozhil-phenianu-sozdat-edinuiu-komandu-dlia-uchastiia-v-oi.html?utm_source=rg.ru&amp;utm_medium=amp&amp;utm_campaign=feed&amp;utm_content=yandex_related"
+img="http://www.rossiyskie-novosti.ru/searchenginescompilation.png">
+Спорт помирит?</link>
+<link url="https://rg.ru/2017/05/20/rene-fazel-est-nebolshoj-shans-chto-nhl-poedet-na-olimpiadu.html?utm_source=rg.ru&amp;utm_medium=amp&amp;utm_campaign=feed&amp;utm_content=yandex_related"
+img="http://www.rossiyskie-novosti.ru/searchenginescompilation.png">
+Рене Фазель: Есть небольшой шанс, что НХЛ поедет на Олимпиаду</link>
+</yandex:related>
+</item>
+<item turbo="false">
+<yandex:genre>article</yandex:genre>
+<category>Спорт</category>
+<title>Наши будут в форме</title>
+<description>На Олимпийских играх в сборная России будет выглядеть по-новому. Экипировщик представил первый результат - форму для юношеский сборной. В ней россияне отправятся в Венгрию</description>
+<link>https://rg.ru/2017/07/13/ekipirovshchik-olimpijskogo-komiteta-rossii-predstavil-novuiu-formu.html</link>
+<pubDate>13 Jul 2017 23:30:00 +0300</pubDate>
+<author>Иван Петров</author>
+<turbo:content>
+<header>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+<h1>Заголовок</h1>
+<h2>Подзаголовок</h2>
+</header>
+<h1>Заголовок</h1>
+<a href="https://www.gazeta.ru/auto/news/2017/03/27/n_9846095.shtml">Ранее</a>
+<p>Это первый т. Важно, насколько удачным он получится, - заявил на специальной пресс-конференции глава ОКР Александр Жуков. - Главное, это чтобы форма понравилась спортсменам. У нас в сборной ребята 15-16 лет. То есть одежда должна быть удобной, но при этом красивой и модной. Новая экипировка выглядит современной, при этом ее не перепутаешь с формой из другой страны.</p>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+<figcaption>Картинка</figcaption>
+</figure>
+<figure class="carousel">
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+<figure>
+<img src="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg"/>
+</figure>
+</figure>
+<figure>
+<video>
+<source src="http://videocdn.itar-tass.com/tass/m2/uploads/v/27788.video_hd.mp4" type="video/mp4" />
+</video>
+<img src="http://cdn.tass.ru/tass/m2/uploads/v/27788.video_stop_frame.jpg" />
+</figure>
+<figure>
+<video>
+<source src="http://videocdn.itar-tass.com/tass/m2/uploads/v/27790.video_hd.mp4" type="video/mp4" />
+</video>
+<img src="http://cdn.tass.ru/tass/m2/uploads/v/27788.video_stop_frame.jpg"/>
+<figcaption>Подпись</figcaption>
+</figure>
+<ul>
+<li>Математика</li>
+<li>Физика</li>
+<li>Химия</li>
+</ul>
+<ol>
+<li>Математика</li>
+<li>Физика</li>
+<li>Химия</li>
+</ol>
+</turbo:content>
+<enclosure url="https://cdnimg.rg.ru/img/content/142/71/97/1_0be2689c.jpg" type="image/jpeg"/>
+<enclosure url="http://cdn.tass.ru/tass/m2/uploads/v/27788.video_stop_frame.jpg" type="image/jpeg"/>
+<enclosure url="http://videocdn.itar-tass.com/tass/m2/uploads/v/27788.video_hd.mp4" type="video/mp4"/>
+<enclosure url="http://cdn.tass.ru/tass/m2/uploads/v/27790.video_stop_frame.jpg" type="image/jpeg"/>
+<enclosure url="http://videocdn.itar-tass.com/tass/m2/uploads/v/27790.video_hd.mp4" type="video/mp4"/>
+<media:group>
+<media:content url="http://videocdn.itar-tass.com/tass/m2/uploads/v/27790.video_hd.mp4"></media:content>
+<media:thumbnail url="http://cdn.tass.ru/tass/m2/uploads/v/27790.video_stop_frame.jpg"></media:thumbnail>
+<media:status state="active"></media:status>
+</media:group>
+<yandex:related>
+<link url="https://rg.ru/2017/06/24/glava-rk-predlozhil-phenianu-sozdat-edinuiu-komandu-dlia-uchastiia-v-oi.html?utm_source=rg.ru&amp;utm_medium=amp&amp;utm_campaign=feed&amp;utm_content=yandex_related"
+img="http://www.rossiyskie-novosti.ru/searchenginescompilation.png">
+Спорт помирит?</link>
+<link url="https://rg.ru/2017/05/20/rene-fazel-est-nebolshoj-shans-chto-nhl-poedet-na-olimpiadu.html?utm_source=rg.ru&amp;utm_medium=amp&amp;utm_campaign=feed&amp;utm_content=yandex_related"
+img="http://www.rossiyskie-novosti.ru/searchenginescompilation.png">
+Рене : Есть небольшой шанс, что НХЛ поедет на </link>
+</yandex:related>
+</item>
+</channel>
+</rss>
